@@ -3,6 +3,7 @@ public class Funcion {
 
     int results = iva(1500);
         System.out.println(results);
+        System.out.println();
     }
 
     static int iva(int num){
